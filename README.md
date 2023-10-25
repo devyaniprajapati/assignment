@@ -1,1 +1,1 @@
-<i font-size: 25px;>Devyani Prajapati</i>
+<i font-size: "25px";>Devyani Prajapati</i>
